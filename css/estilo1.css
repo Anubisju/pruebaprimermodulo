@@ -1,0 +1,152 @@
+.primerasesion {
+    background-color: rgb(86, 61, 124);
+}
+.navbar-expand-lg {
+    background-color: rgb(86, 61, 124) !important;
+}
+.active {
+    color: rgb(255, 255, 255) !important;
+    margin-left: 10px;
+}
+#letra {
+    color: rgb(203, 189, 226) !important;
+    margin-left: 20px;
+}
+.nav-pills {
+    float: right;
+    margin-top: 10px;
+}
+#lila {
+    color: rgb(203, 189, 226) !important;
+}
+.btn-Download {
+    width: 150px;
+    height: 40px;
+    background-color:rgb(86, 61, 124) !important ;
+    border-color: rgb(206, 185, 69) !important;
+    color: rgb(206, 185, 69) !important;
+    margin-right: 20px;   
+
+}
+#primericono {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+    margin-right: 10px;
+}
+#ultimoicono {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 15px;
+}
+
+h1 {
+    color: #7952B3;
+    font-size: 70px;
+    margin-left: 60px;
+    text-align: justify;
+}
+p {
+    color: #6C7585;
+    font-size: 23px;
+    margin-left: 60px;
+    text-align: justify;
+}
+.btn-getstarted {
+    width: 250px;
+    height: 50px;
+    background-color:rgb(255, 255, 255) !important ;
+    border-color: rgb(121, 82, 179) !important;
+    color: rgb(121, 82, 179) !important;
+    margin-left: 60px;
+    margin-right: 20px;
+    font-size: 20px;
+    
+
+}
+.btn-downloadd {
+    width: 250px;
+    height: 50px;
+    background-color:rgb(255, 255, 255) !important ;
+    border-color: #6C7585 !important;
+    color: #6C7585 !important;
+    font-size: 20px;
+    
+}
+p1 {
+    color: #6C7585;
+    margin-left: 60px;
+}
+
+#segundaimagen {
+    width: 800px;
+    height: 500px;
+}
+
+#primeracard{
+    background-color: #ececee !important;
+    margin-left: 60px;
+    height: 150px;
+}
+#terceraimagen{
+    width: 100px;
+    height: 120px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+p2{ 
+    font-size:15px;
+}
+p3{
+    font-size:15px; 
+}
+#segundacard{
+    background-color: #ececee !important;
+}
+#cuartaimagen {
+    width: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+p5{
+    color: blue;
+}
+p7{
+    color: darkolivegreen;
+}
+p9{
+    color: rgb(73, 73, 204);
+}
+.btn-read{
+    width: 200px;
+    height: 50px;
+    background-color:#d5d6da !important ;
+    border-color: #3d66ad !important;
+    color: #3d66ad !important;
+    font-size: 18px;
+}
+p10{
+    font-size: 20px;
+    color: black;
+}
+.nt{
+    color: blue;
+}
+.na{
+    color: rgb(79, 148, 226);
+}
+.o{
+    color: red;
+}
+
+.quintasesion{
+    background-color:#ececee  ;
+}
+#ultimolink{
+    color: black !important;
+}
+h7 {
+    color:#c2c2c5  ;
+}
